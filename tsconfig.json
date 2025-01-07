@@ -9,7 +9,7 @@
     }
   ],
   "compilerOptions": {
-    "types": ["vite-plugin-svg-icons/client"]
+    "types": ["vite-plugin-svg-icons/client","element-plus/global"],
   }
 
 }
